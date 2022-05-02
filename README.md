@@ -14,7 +14,7 @@
  2. Download&Install RemotePlay, sign in
  3. Open Hammerspoon > Open Config > choose **GT7_PS5_CZB_script.lua**
  4. Go to RemotePlay > Open GT7 > go to Controller Settings and change D-PAD like:
-    >UP: Accelerate
+    >UP: Accelerate'
     >DOWN: Nitro
     >LEFT/RIGHT: Steering
  5. Now Enter World Circuits and wait till menu loads.
@@ -39,8 +39,8 @@ flowchart TD
 - This is not 24h script because I dont implemented daily rewards case. So you have to restart script every midnight (you can change timezone, for example I moved time +2hr so I restart script at 22:00
 
 ### How much script will earn?
-Basically one loop takes ~5mins. Race about 4:10 then rest is just menu clicking
-5 mins = 35k or 52.5k (clean race)
-1hr = 420k
-24hr = 10kk at least
-100kk takes max 10 days. :)
+Basically one loop takes ~5mins. Race about 4:10 then rest is just menu clicking\
+5 mins = 35k or 52.5k (clean race)\
+1hr = 420k\
+24hr = 10kk at least\
+100kk takes max 10 days. \:)
