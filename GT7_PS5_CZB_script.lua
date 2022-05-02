@@ -13,7 +13,7 @@ hs.hotkey.bind({"ctrl"}, "S", function()
       Pan_America_FirstRun()
       while( true )
       do
-             MenuEntry_PanAmerica()
+          MenuEntry_PanAmerica()
           RaceTime_PanAmerica()
           FinishExitToMenu_PanAmerica()
       end
