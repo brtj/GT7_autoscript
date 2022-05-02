@@ -14,9 +14,9 @@
  2. Download&Install RemotePlay, sign in
  3. Open Hammerspoon > Open Config > choose **GT7_PS5_CZB_script.lua**
  4. Go to RemotePlay > Open GT7 > go to Controller Settings and change D-PAD like:
-    >UP: Accelerate'
-    >DOWN: Nitro
-    >LEFT/RIGHT: Steering
+    >UP: Accelerate\
+    >DOWN: Nitro\
+    >LEFT/RIGHT: Steering\
  5. Now Enter World Circuits and wait till menu loads.
  6. When menu appears execute Hammerspoon Script by pressing **CTRL+S**
 
